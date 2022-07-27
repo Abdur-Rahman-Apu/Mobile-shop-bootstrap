@@ -36,3 +36,9 @@
     border: none;
     background: linear-gradient(to right, #2937f0, #9f1ae2);
 }
+
+
+/* get-the-app section  */
+.get-the-app {
+    height: 200px;
+}
