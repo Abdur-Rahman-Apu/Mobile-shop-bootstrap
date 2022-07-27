@@ -14,6 +14,10 @@
 
 /* add section  */
 
+.ads-section {
+    height: 100vh;
+}
+
 .ads-section img {
     width: 100px;
 }
