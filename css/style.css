@@ -1,0 +1,38 @@
+.gradient-color {
+    background: linear-gradient(to right, #2937f0, #9f1ae2);
+}
+
+.primary-color {
+    color: #2937f0;
+}
+
+.secondary-color {
+    color: #9f1ae2;
+}
+
+.ads-section img {
+    width: 100px;
+}
+
+.card-body img {
+    width: 50px;
+}
+
+.waiting-section {
+    height: 100vh;
+    background-image: url('../img/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.download-btn {
+    box-sizing: border-box;
+    border: 1px solid white;
+}
+
+.download-btn:hover {
+    border: none;
+    background: linear-gradient(to right, #2937f0, #9f1ae2);
+}
