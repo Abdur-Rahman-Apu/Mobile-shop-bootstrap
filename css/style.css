@@ -1,3 +1,5 @@
+/* utilities */
+
 .gradient-color {
     background: linear-gradient(to right, #2937f0, #9f1ae2);
 }
@@ -10,13 +12,19 @@
     color: #9f1ae2;
 }
 
+/* add section  */
+
 .ads-section img {
     width: 100px;
 }
 
+/* waiting section  */
+
 .card-body img {
     width: 50px;
 }
+
+/* waiting section  */
 
 .waiting-section {
     height: 100vh;
@@ -41,4 +49,9 @@
 /* get-the-app section  */
 .get-the-app {
     height: 200px;
+}
+
+/* footer  */
+footer {
+    height: 100px;
 }
